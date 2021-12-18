@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/ooudft/luerdo",
-  "repository": "https://github.com/ooudft/luerdo",
+  "website": "https://github.com/okkliert/nbvoedet",
+  "repository": "https://github.com/okkliert/nbvoedet",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
